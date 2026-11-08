@@ -5,3 +5,4 @@ numpy
 requests
 logzero
 websocket-client
+python-dotenv
